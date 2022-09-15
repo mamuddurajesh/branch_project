@@ -1,1 +1,2 @@
 "new file2 is add" 
+"new info is added" 
